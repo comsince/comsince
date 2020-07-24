@@ -31,10 +31,10 @@ Hi, I'm cosmince, 一个热爱开发的工程师,主要研究后端开发,Androi
 
 <a href="https://github.com/comsince/vue-chat">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=comsince&repo=vue-chat&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=comsince&repo=vue-chat&theme=highcontrast" />
 </a>
 
 <a href="https://github.com/comsince/android-chat">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=comsince&repo=android-chatt&theme=radical" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=comsince&repo=android-chat&theme=highcontrast" />
 </a>
