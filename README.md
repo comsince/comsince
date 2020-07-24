@@ -35,10 +35,6 @@ Hi, I'm cosmince, 一个热爱开发的工程师,主要研究后端开发,Androi
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=vue-chat&theme=onedark" />
 </a>
 
-<a href="https://github.com/fsharechat/android-chat>
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=android-chat&theme=onedark" />
-</a>
-
 <a href="https://github.com/fsharechat/chat-server-release">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=chat-server-release&theme=onedark" />
