@@ -2,7 +2,7 @@
 
 <br />
 
-Hi, I'm cosmince, 一个热爱开发的工程师,主要研究后端开发,Android 应用开发,偶尔也研究下vue前端
+Hi, I'm cosmince, 一名普通的软件工程师,主要研究后端开发,Android 应用开发,偶尔也研究下vue前端
 
 - 🔭 我目前致力于开发[飞享]即时通讯项目 [fsharechat](https://github.com/fsharechat),同时也欢迎加入开发组，了解更多信息，可以访问[飞享官网](https://fsharechat.cn)
 - 🌱 专注并一直致力于即时通讯技术的研究,持续输出技术落地实践,相关技术博客地址,点击[这里](https://www.comsince.cn)
