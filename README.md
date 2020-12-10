@@ -32,12 +32,12 @@ Hi, I'm comsince, 软件开发工程师,主要研究后端开发,Android 应用�
 
 <a href="https://github.com/fsharechat/vue-chat">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=vue-chat&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=vue-chat&theme=cobalt" />
 </a>
 
 <a href="https://github.com/fsharechat/chat-server-release">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=chat-server-release&theme=dark" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=fsharechat&repo=chat-server-release&theme=cobalt" />
 </a>
 
 <a href="https://github.com/fsharechat/android-chat">
