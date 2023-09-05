@@ -2,11 +2,11 @@
 
 <br />
 
-Hi, I'm comsince, 软件开发工程师,主要研究后端开发,Android 应用开发,偶尔也研究下vue前端
+Hi, I'm comsince, I am a software development engineer. I mainly study back-end development, Android application development, and occasionally Vue front-end.
 
-- 🔭 我目前致力于开发[飞享]即时通讯项目 [fsharechat](https://github.com/fsharechat),同时也欢迎加入开发组，了解更多信息，可以访问[飞享官网](https://fsharechat.cn)
-- 🌱 专注并一直致力于即时通讯技术的研究,持续输出技术落地实践,相关技术博客地址,点击[这里](https://www.comsince.cn)
-- 💬 如果你任何IM相关问题,可以在这里提问 [here](https://github.com/comsince/comsince/issues),你可以到[飞享IM](https://chat.comsince.cn)上进行交流
+- 🔭 I am currently committed to developing the [FsharechatIM] instant messaging project [fsharechat](https://github.com/fsharechat). At the same time, I welcome your valuable opinions. For more exchange information, you can visit [FsharechatIM official website](https://fsharechat.cn)
+- 🌱 Focus on and have been committed to the research of instant messaging technology, and continue to output technology implementation practices. For related technology blog addresses, click [here](https://www.comsince.cn)
+- 💬 If you have any IM-related questions, you can ask [here](https://github.com/comsince/comsince/issues), you can go to [Fsharechat IM](https://web.fsharechat.cn) to communicate on
 
 **Languages and Tools:**  
 
